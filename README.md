@@ -19,7 +19,7 @@ Perfect for:
 
 ```bash
 # Download the script
-curl -O https://raw.githubusercontent.com/your-username/collect-project/main/collect_project.py
+curl -O https://raw.githubusercontent.com/poupkine/collect-project/main/collect_project.py
 
 # Run from your project root
 python collect_project.py
